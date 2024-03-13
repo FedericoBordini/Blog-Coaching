@@ -21,3 +21,19 @@ a:hover {
 li {
     padding: .3rem .7rem;
 }
+
+main {
+    display: flex;
+}
+
+img {
+    width: 50%;
+    border-radius: 60%;
+}
+
+p{
+    display: flex;
+    align-items: center;
+    padding: .5rem;
+    line-height: 1.4em;
+}
