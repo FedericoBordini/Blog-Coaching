@@ -1,3 +1,8 @@
+body {
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
 section {
     display: flex;
     justify-content: end;
@@ -26,14 +31,19 @@ main {
     display: flex;
 }
 
-img {
-    width: 50%;
+.pablo-coaching {
+    width: 25%;
     border-radius: 60%;
 }
+
+/* .volley-banner {
+    width: 75%;
+} */
 
 p{
     display: flex;
     align-items: center;
     padding: .5rem;
     line-height: 1.4em;
+    font-size: large;
 }
