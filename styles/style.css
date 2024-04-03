@@ -54,3 +54,10 @@ p{
 .presentation {
     margin-top: 20px;
 }
+
+footer {
+    margin-top: 5%;
+    margin-bottom: 5%;
+    display: flex;
+    justify-content: end;
+}
