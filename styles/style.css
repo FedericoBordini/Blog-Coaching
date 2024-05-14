@@ -18,6 +18,12 @@ li {
   padding: .3rem .7rem;
 }
 
+.lista-presentaciones {
+  list-style: none;
+  display: grid;
+  grid: auto-flow / 1fr 1fr 1fr;
+}
+
 .pablo-coaching {
   width: 20%;
   border-radius: 60%;
